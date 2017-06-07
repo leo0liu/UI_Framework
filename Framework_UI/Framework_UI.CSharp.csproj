@@ -69,9 +69,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\UIFramework\UIPanel\PanelInfo.cs" />
+    <Compile Include="Assets\UIFramework\GameRoot.cs" />
+    <Compile Include="Assets\UIFramework\UIManager.cs" />
+    <Compile Include="Assets\UIFramework\UIPanel\UIPanelInfo.cs" />
     <Compile Include="Assets\UIFramework\UIPanel\UIPanelType.cs" />
-    <Compile Include="Assets\UIManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Images\005-number combo\number_font.fnt" />

@@ -1,31 +1,34 @@
+{
+"infoList":
 [
   {
-    "panelType": "ItemMessage",
+    "panelTypeString": "ItemMessage",
     "path": "UIPanel/ItemMessagePanel"
   },
 
   {
-    "panelType": "Knapsack",
+    "panelTypeString": "Knapsack",
     "path": "UIPanel/KnapsackPanel"
   },
   {
-    "panelType": "MainMenu",
+    "panelTypeString": "MainMenu",
     "path": "UIPanel/MainMenuPanel"
   },
   {
-    "panelType": "Shop",
+    "panelTypeString": "Shop",
     "path": "UIPanel/ShopPanel"
   },
   {
-    "panelType": "Skill",
+    "panelTypeString": "Skill",
     "path": "UIPanel/SkillPanel"
   },
   {
-    "panelType": "System",
+    "panelTypeString": "System",
     "path": "UIPanel/SystemPanel"
   },
    {
-    "panelType": "Task",
+    "panelTypeString": "Task",
     "path":"UIPanel/TaskPanel"
   }
 ]
+}
